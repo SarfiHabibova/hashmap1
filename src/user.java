@@ -6,4 +6,7 @@ public class user {
     int a=5;
     int b=10;
     int c=3;
+    int f=5;
+    int e=10;
+
 }

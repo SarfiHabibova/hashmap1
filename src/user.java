@@ -6,4 +6,11 @@ public class user {
     int a=5;
     int b=10;
     int c=3;
+<<<<<<< Updated upstream
+=======
+    int f=5;
+    int e=10;
+
+
+>>>>>>> Stashed changes
 }
